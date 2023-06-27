@@ -1,0 +1,110 @@
+.text{
+    margin-right: 40px;
+    text-align: right;
+    color: #fc9;
+    font-family: Verdana;
+    margin-bottom: 10px;
+
+
+}
+h3{
+    font-size: 40px;
+    color: white;
+    margin-bottom: 5px;
+
+}
+h5{
+    font-style: oblique;
+}
+h1{
+    font-size: 80px;
+    margin: 0;
+}
+p {
+    margin-right: 40px;
+    text-align: right;
+    color: #fc9;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer{
+    margin-right: 40px;
+    text-align: left;
+    color: #fc9;
+}
+form{
+    margin-right: 40px;
+    text-align: right;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #fc9;
+}
+img {
+    float: left;
+    border: 5px solid #fc9;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 20px ;
+
+}
+html{
+    background-image: url(https://wallpapercave.com/wp/wp2580054.png);
+    background-size:auto;
+    background-repeat: no-repeat;
+    /* margin-top: 5%; */
+}
+/* div{
+    border: 1px solid #fc9;
+} */
+a{
+    color: #fc9;
+}
+/* #Contact{
+    text-align: left;
+    font-family: Verdana;
+    color: #fc9;
+    margin-top: 10px;
+    margin-left: 20px;
+
+   
+} */
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:right;
+    
+
+}
+input {
+    padding: 10px;
+    border: 2px solid #fc9;
+    border-radius: 3px;
+
+}
+button {
+    padding: 10px;
+    border: 2px solid #fc9;
+    border-radius: 3px;
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black ;
+  
+    
+  }
+  li a {
+    display: block;
+    color: #fc9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  
